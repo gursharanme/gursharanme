@@ -14,6 +14,7 @@ I’m a frontend developer focused on building clean, responsive, and user-frien
 - Completing the Meta Frontend Professional Certificate
 
 ### Get in touch
-- Portfolio: https://gursharan.co
-- LinkedIn: https://linkedin.com/in/gursharanco
-- Email: gursharan.dodhar@gmail.com
+- Portfolio: https://gursharan.me
+- LinkedIn: https://linkedin.com/in/gursharanme
+- https://x.com/gursharanco
+- Email: contact.gursharan.me@gmail.com
