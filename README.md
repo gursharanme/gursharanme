@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I’m Gursharan 👋
 
-<!--
-**gursharanco/gursharanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a frontend developer focused on building clean, responsive, and user-friendly web interfaces. I enjoy working at the intersection of design and code, with an emphasis on maintainability and performance.
 
-Here are some ideas to get you started:
+### What I work with
+- HTML, CSS, JavaScript
+- React, Tailwind CSS
+- WordPress
+- Currently learning Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m doing now
+- Working as a WordPress Developer
+- Building frontend projects to strengthen modern UI skills
+- Completing the Meta Frontend Professional Certificate
+
+### Get in touch
+- Portfolio: https://gursharan.co
+- LinkedIn: https://linkedin.com/in/gursharanco
+- Email: gursharan.dodhar@gmail.com
